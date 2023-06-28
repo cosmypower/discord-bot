@@ -1,0 +1,75 @@
+{
+	"channels": {
+	  "welcome": "welcome",
+	  "levelup": "levelup",
+	  "voicechat": "blaah, staff, General",
+	  "casino": "casino",
+	  "gang": "gang",
+	  "other": "other",
+	  "leaderboard": "leaderboard"
+	},
+	"texts": {
+	  "welcomeTitle": "Welcome to %server%",
+	  "welcomeDesc": "Hey %player%, thanks for joining us!",
+	  "welcomeField": "You are the %number% member.",
+	  
+	  "levelupTitle": "%player% leveled up.",
+	  "levelupField1": "You are now level %level%.",
+	  "levelupField2": "You need %xp% more xp to level up!",
+	  "levelupFooter": "Check your current XP via !xp",
+	  
+	  "xpCommandFooter": "Earn xp by chatting or voice calling",
+
+	  "balanceCommandFooter": "Earn coins by chatting, voice calling or casino games"
+	},
+	"colors": {
+	  "welcomeEmbed": "#FC6203",
+	  "levelupEmbed": "#32A891",
+	  "othersCommandsEmbed": "#00FF00"
+	},
+	"emoji": {
+	  "xpEmoji": "xp",
+	  "coinEmoji": "coin"
+	},
+	"aliases": {
+	  "balance": "bal",
+	  "level": "lv",
+	  "xp": "exp"
+	},
+	"desc": {
+	  "balance": "See your or another player's balance",
+	  "level": "See your or another player's level",
+	  "pay": "Send money to someone",
+	  "reload": "Reloads a plugin",
+	  "xp": "See your or another's player experience",
+	  "help": "Shows this menu",
+	  "war": "Idk",
+	  "duel": "Idk",
+	  "coinflip": "Idk",
+	  "leaderboard": "Idk", 
+	  "roulette": "Idk",
+	  "g": "Idk",
+	  "casino": "Idk",
+	  "gang": {
+	  	"create": "Create your own gang.",
+	  	"invite": "Invite an user to your gang.",
+	  	"leave": "Leave the gang.",
+	  	"promote": "Promote a member of the gang to an Officer",
+	  	"demote": "Demote",
+	  	"toggle": "Toggle your suffix",
+	  	"create": "Cv",
+	  	"disband": "Close",
+	  	"open": "Open",
+	  	"join": "Join",
+	  	"close": "Close",
+	  	"deposit": "Deposit coins.",
+	  	"bank": "Bank",
+	  	"info": "Info",
+	  	"tax": "Tax",
+	  	"kick": "Kick"
+	  }
+	},
+	"errors": {
+		"mentionSelf": "You can't mention yourself."
+	}
+}

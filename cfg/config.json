@@ -1,0 +1,39 @@
+{
+	"databaseInfo": {
+	  "host": "localhost",
+	  "user": "root",
+	  "password": "",
+	  "database": "discord1"
+	},
+	"commandsInfo": {
+	  "othersDelay": 3,
+	  "gangDelay": 3,
+	  "casinoDelay": 3,
+	  "helpCmdRow": 5
+	},
+	"botinfo": {
+	  "token": "insert token",
+	  "prefix": "!"
+	},
+	"leveling": {
+	  "multiplier": 1.0,
+	  "base": 500,
+	  "coinsMinute": 10,
+	  "xpMinute": 20
+	},
+	"shop": {
+		"bank": {
+			"prices": [0, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 128000, 256000],
+			"upgrades": [1000, 5000, 10000, 25000, 50000, 75000, 120000, 200000, 350000, 600000, 1000000]
+		},
+		"member": {
+			"prices": [0, 1000, 3000, 8000, 16000, 22000],
+			"upgrades": [5, 10, 15, 20, 25, 30]
+		},
+		"coin_xp": {
+			"prices": [0, 1000, 4500, 9000, 20000, 35000, 60000, 105000, 300000, 450000, 600000],
+			"upgrades": [1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2.0]
+		}
+
+	}
+}
